@@ -3,6 +3,7 @@ package jenkins;
 public class Test {
 	
 	private String text;
+	private String name;
 
 	public String getText() {
 		return text;
@@ -12,4 +13,13 @@ public class Test {
 		this.text = text + "test";
 	}
 
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	
 }
