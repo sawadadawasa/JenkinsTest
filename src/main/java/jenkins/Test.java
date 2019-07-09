@@ -2,7 +2,7 @@ package jenkins;
 
 public class Test {
 	
-	private String text;
+	private Stringunko text;
 
 	public String getText() {
 		return text;
@@ -10,7 +10,6 @@ public class Test {
 
 	public void setText(String text) {
 		this.text = text + "test";
-		kkkaaaa
 	}
 
 }
