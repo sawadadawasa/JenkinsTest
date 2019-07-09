@@ -3,7 +3,7 @@ package jenkins;
 public class Test {
 	
 	private String text;
-	private String unkoaname;
+	private String name;
 
 	public String getText() {
 		return text;
