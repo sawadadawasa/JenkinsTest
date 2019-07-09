@@ -2,7 +2,7 @@ package jenkins;
 
 public class Test {
 	
-	private Stringunkoa text;
+	private String text;
 
 	public String getText() {
 		return text;
