@@ -21,6 +21,14 @@ public class Test {
 	public void setName(String name) {
 		this.name = name;
 	}
+
+	public String getUnko() {
+		return unko;
+	}
+
+	public void setUnko(String unko) {
+		this.unko = unko;
+	}
 	
 	
 	
