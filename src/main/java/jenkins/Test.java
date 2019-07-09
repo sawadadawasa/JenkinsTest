@@ -5,7 +5,7 @@ public class Test {
 	private String text;
 	private String name;
 	private String unko;
-	private String aaa;
+	private String aaab;
 	int num1;
 
 	public String getText() {
