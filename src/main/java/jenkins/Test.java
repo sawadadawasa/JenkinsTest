@@ -4,6 +4,7 @@ public class Test {
 	
 	private String text;
 	private String name;
+	private String unko;
 
 	public String getText() {
 		return text;
