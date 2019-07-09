@@ -6,7 +6,7 @@ public class Test {
 	private String name;
 	private String unko;
 	private String aaab;
-	int num123454an;
+	int num1234540000an;
 
 	public String getText() {
 		return text;
