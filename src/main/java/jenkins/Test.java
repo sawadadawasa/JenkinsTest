@@ -3,7 +3,7 @@ package jenkins;
 public class Test {
 	
 	private String text;
-	private String nme;
+	private String naame;
 
 	public String getText() {
 		return text;
