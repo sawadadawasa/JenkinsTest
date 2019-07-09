@@ -5,6 +5,7 @@ public class Test {
 	private String text;
 	private String name;
 	private String unko;
+	private String aaa;
 
 	public String getText() {
 		return text;
