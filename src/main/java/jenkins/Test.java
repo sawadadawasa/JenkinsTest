@@ -10,6 +10,7 @@ public class Test {
 
 	public void setText(String text) {
 		this.text = text + "test";
+		kkk
 	}
 
 }
